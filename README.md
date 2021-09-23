@@ -49,4 +49,6 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
 <ol>
   <li><a href="https://www.netomi.com/best-help-desk-software">11 Best Help Desk Software Solutions for 2021</a></li>
   <li><a href="https://www.wallix.com/wp-content/uploads/2020/07/WALLIX_ServiceNow_Discovery_Datasheet.pdf">Safely store Discovery credentials</a>
+  <li><a href="https://www.reliaquest.com/why-reliaquest/integration-partners/">ReliaQuest GreyMatter Integration Partners</a></li>
+  <li><a href="https://fraud.net/appstore/">AppStore from Fraud.net</a></li>
 </ol>
