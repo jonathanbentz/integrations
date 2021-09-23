@@ -47,6 +47,6 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
 
 # References
 <ol>
-  <li><a href="https://www.netomi.com/best-help-desk-software">11 Best Help Desk Softwares for 2021</a></li>
+  <li><a href="https://www.netomi.com/best-help-desk-software">11 Best Help Desk Software Solutions for 2021</a></li>
   <li><a href="https://www.wallix.com/wp-content/uploads/2020/07/WALLIX_ServiceNow_Discovery_Datasheet.pdf">Safely store Discovery credentials</a>
 </ol>
