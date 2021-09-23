@@ -6,7 +6,7 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
 # Freshdesk
 <h2>Chatbot Integrations</h2>
 <ul>
-  <li>Netomi <a href="https://www.netomi.com/platform/integrations/freshworks">Salesforce Chatbot</a></li>
+  <li>Netomi <a href="https://www.netomi.com/platform/integrations/freshworks">Freshdesk Chatbot</a></li>
 </ul>
 
 # Gladly
