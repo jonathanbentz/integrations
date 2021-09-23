@@ -27,6 +27,13 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
   <li>Wallix <a href="https://www.wallix.com/alliances/servicenow/">ServiceNow Integration for Credential Storage</a></li>
 </ul>
 
+# Slack
+<h2>IPaaS Solutions</h2>
+<ul>
+  <li>NextUp <a href="https://www.nextup.ai/slack-jira-integration/">Integration+ to connect Slack and Jira</a></li>
+  <li>NextUp <a href="https://www.nextup.ai/slack-jira-integration/">Morgan</a> for meeting organization</li>
+</ul>
+
 # Sprinklr
 <h2>Chatbot Integrations</h2>
 <ul>
