@@ -28,10 +28,10 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
 </ul>
 
 # Slack
-<h2>IPaaS Solutions</h2>
+<h2>Jira Management</h2>
 <ul>
   <li>NextUp <a href="https://www.nextup.ai/slack-jira-integration/">Integration+ to connect Slack and Jira</a></li>
-  <li>NextUp <a href="https://www.nextup.ai/slack-jira-integration/">Morgan</a> for meeting organization</li>
+  <li>NextUp <a href="https://www.nextup.ai/morgan">Morgan</a> for meeting organization</li>
 </ul>
 
 # Sprinklr
@@ -58,4 +58,5 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
   <li><a href="https://www.wallix.com/wp-content/uploads/2020/07/WALLIX_ServiceNow_Discovery_Datasheet.pdf">Safely store Discovery credentials</a>
   <li><a href="https://www.reliaquest.com/why-reliaquest/integration-partners/">ReliaQuest GreyMatter Integration Partners</a></li>
   <li><a href="https://fraud.net/appstore/">AppStore from Fraud.net</a></li>
+  <li><a href="https://www.nextup.ai/about/">About Us - Nextup.ai</a></li> 
 </ol>
