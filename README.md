@@ -6,8 +6,14 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
 # Salesforce
 <h2>Chatbot Integrations</h2>
 <ul>
-<li>Netomi <a href="https://www.netomi.com/platform/integrations/salesforce">Salesforce Chatbot</a></li>
+  <li>Netomi <a href="https://www.netomi.com/platform/integrations/salesforce">Salesforce Chatbot</a></li>
 </ul>  
+
+# ServiceNow
+<h2>Security Integrations</h2>
+<ul>
+  <li>Wallix <a href="https://www.wallix.com/alliances/servicenow/">ServiceNow Integration for Credential Storage</a></li>
+</ul>
 
 # Zendesk
 <h2>Chatbot Integrations</h2>
