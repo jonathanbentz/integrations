@@ -63,7 +63,7 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
   <li>XTM <a href="https://xtm.cloud/xtm-connect/sharepoint/">SharePoint Connect</a> automates localization of the information stores in the system.</li>
 </ul>
 
-#Sitecore
+# Sitecore
 <h2>Translation Integrations</h2>
 <ul>
   <li>XTM <a href="https://xtm.cloud/xtm-connect/sitecore/">Sitecore Connector</a> lets you automate the creation of multilingual digital experiences.</li>
