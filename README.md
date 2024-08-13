@@ -4,19 +4,19 @@ A repository of integration options for many of the top SaaS platforms. These ar
 Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a> if you find this list and want your integration added here, since I'm always looking for new tools to extend the visibility of some of these platforms.
 
 # Adobe
-<h2>Adobe Experience Manager</h2>
+<h2>Adobe Experience Manager Integrations</h2>
 <ul>
 <li>XTM Connect for <a href="https://xtm.cloud/xtm-connect/adobe-experience-manager/">Adobe Experience Manager</a> enables translation of personalized, content-led experiences.</li>
 </ul>
 
 # Contentful
-<h2>Contentful Integrations</h2>
+<h2>Translation Integrations</h2>
 <ul>
   <li>XTM <a href="https://xtm.cloud/xtm-connect/contentful/">Contentful Connect</a> automates the globalization of content to help streamline creation.</li>
 </ul>
 
 # Contentstack
-<h2>Contentstack Integrations</h2>
+<h2>Translation Integrations</h2>
 <ul>
   <li>XTM <a href="https://xtm.cloud/xtm-connect/contentstack/">Contentstack Connect</a> enables translation of websites and applications that have been quickly created.</li>
 </ul>
@@ -34,13 +34,13 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
 </ul>
 
 # Kontent.ai
-<h2>Kontent.ai</h2>
+<h2>Translation Integrations</h2>
 <ul>
   <li>XTM <a href="https://xtm.cloud/xtm-connect/kontent-ai/">Kontent.ai Connect</a> enables users to seamlessly localize campaigns.</li>
 </ul>
 
 # Oracle
-<h2>Oracle Integrations</h2>
+<h2>Translation Integrations</h2>
 <ul>
   <li>XTM <a href="https://xtm.cloud/xtm-connect/oracle-content-management/">Oracle Content Management Connect</a> enables translation management, creation, and activation of various content types in one native system.</li>
 </ul>
@@ -58,13 +58,13 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
 </ul>
 
 # SharePoint
-<h2>SharePoint Integrations</h2>
+<h2>Translation Integrations</h2>
 <ul>
   <li>XTM <a href="https://xtm.cloud/xtm-connect/sharepoint/">SharePoint Connect</a> automates localization of the information stores in the system.</li>
 </ul>
 
 #Sitecore
-<h2>Sitecore Integrations</h2>
+<h2>Translation Integrations</h2>
 <ul>
   <li>XTM <a href="https://xtm.cloud/xtm-connect/sitecore/">Sitecore Connector</a> lets you automate the creation of multilingual digital experiences.</li>
 </ul>
@@ -95,7 +95,7 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
 </ul>
 
 # WordPress
-<h2>WordPress Integrations</h2>
+<h2>Translation Integrations</h2>
 <ul>
   <li>XTM <a href="https://xtm.cloud/xtm-connect/wordpress/">WordPress Connect</a> helps localize your website quickly and efficiently.</li>
 </ul>
