@@ -8,6 +8,7 @@ Drop me a DM <a href="https://www.linkedin.com/in/jonathanbentz">on LinkedIn</a>
 <ul>
 <li>XTM Connect for <a href="https://xtm.cloud/xtm-connect/adobe-experience-manager/">Adobe Experience Manager</a> enables translation of personalized, content-led experiences.</li>
 </ul>
+
 # Contentful
 <h2>Contentful Integrations</h2>
 <ul>
